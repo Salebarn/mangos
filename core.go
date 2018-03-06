@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// This is sandbox code, mainly for the purposes of learning by breaking things in order to learn Mangos ... please do not use.
+
 package mangos
 
 import (
